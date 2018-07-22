@@ -1,22 +1,22 @@
 # SweetAlert
 
-##download files
-  npm install angular-sweetalert
+##download files<br>
+  1.npm install angular-sweetalert
 
-  npm install sweetalert
+  2.npm install sweetalert
 
 ##versions
-  Angular V1.2.30
-  Angular-sweetalert V1.0.4
-  Sweetalert V2.1.0
+  1.Angular V1.2.30
+  2.Angular-sweetalert V1.0.4
+  3.Sweetalert V2.1.0
 
 Angular-sweetalert --> Angualar && Sweetalert 
 
 ##The file import
-  sweetalert/sweetalert.min.css
-  angular/angular.min.js
-  angular-sweetalert/SweetAlert.min.js
-  sweetalert/sweetalert.min.js
+  1.sweetalert/sweetalert.min.css
+  2.angular/angular.min.js
+  3.angular-sweetalert/SweetAlert.min.js
+  4.sweetalert/sweetalert.min.js
 
 ##module dependency 
   Add in the app dependency module ‘oitozero.ngSweetAlert’

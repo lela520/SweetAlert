@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>Title</title>
+   <link rel="stylesheet" href="../sweetalert/sweet-alert.css">
+   <script src="../angular/angular.js"></script>
+   <script src="../sweetalert/sweetalert.min.js"></script>
+   <script src="../angular-sweetalert/SweetAlert.js"></script>
+</head>
+<body>
+
+
+<script>
+   swal({
+      title: "提交",
+      text: "确定提交吗",
+      icon: 'info',
+      buttons: {
+         cancel: "取消",
+         confirm: "确定"
+      }
+   }).then(function(isConfirm){
+      if(isConfirm){
+         swal("恭喜你","提交成功", 'success');
+      }else{
+         swal("抱歉","你取消了提交", 'error');
+      }
+   })
+</script>
+</body>
+</html>

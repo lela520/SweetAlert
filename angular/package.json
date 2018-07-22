@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      "angular@1.2.30",
+      "D:\\project\\sweetalert"
+    ]
+  ],
+  "_from": "angular@1.2.30",
+  "_id": "angular@1.2.30",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/angular",
+  "_nodeVersion": "0.10.26",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/angular-1.2.30.tgz_1469097290952_0.9752959706820548"
+  },
+  "_npmUser": {
+    "email": "angular-core+npm@google.com",
+    "name": "angularcore"
+  },
+  "_npmVersion": "2.0.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "angular",
+    "raw": "angular@1.2.30",
+    "rawSpec": "1.2.30",
+    "scope": null,
+    "spec": "1.2.30",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular/-/angular-1.2.30.tgz",
+  "_shasum": "4f1d700eb828e3acf622529ca6b176738de2beaa",
+  "_shrinkwrap": null,
+  "_spec": "angular@1.2.30",
+  "_where": "D:\\project\\sweetalert",
+  "author": {
+    "email": "angular-core+npm@google.com",
+    "name": "Angular Core Team"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular.js/issues"
+  },
+  "dependencies": {},
+  "description": "HTML enhanced for web apps",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "4f1d700eb828e3acf622529ca6b176738de2beaa",
+    "tarball": "https://registry.npmjs.org/angular/-/angular-1.2.30.tgz"
+  },
+  "gitHead": "e3c63aac8a20f58a24ec3d376111587fe9688b9d",
+  "homepage": "http://angularjs.org",
+  "keywords": [
+    "angular",
+    "browser",
+    "client-side",
+    "framework"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "angularcore",
+      "email": "angular-core+npm@google.com"
+    },
+    {
+      "name": "petebd",
+      "email": "pete@bacondarwin.com"
+    }
+  ],
+  "name": "angular",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.30"
+}
